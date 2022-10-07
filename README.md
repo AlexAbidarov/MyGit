@@ -1,1 +1,1 @@
-# MyGit
+Pretty old code, an attempt to determine the occurrence of words # Dictionary
