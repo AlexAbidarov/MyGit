@@ -12,7 +12,7 @@ namespace Dictionary {
         /// </summary>
         [STAThread]
         static void Main() {
-            SkinManager.EnableFormSkins();
+            //SkinManager.EnableFormSkins();
             //DevExpress.UserSkins.OfficeSkins.Register();
             DevExpress.LookAndFeel.UserLookAndFeel.Default.SetSkinStyle("Office 2010 Blue");
             Application.EnableVisualStyles();
